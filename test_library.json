@@ -1,0 +1,9 @@
+{
+  "status": "Connected",
+  "message": "GitHub Storage is working!",
+  "sample_item": {
+    "title": "Test Hymn",
+    "type": "mp3",
+    "url": "https://raw.githubusercontent.com/project-geet/assets/main/test.mp3"
+  }
+}
